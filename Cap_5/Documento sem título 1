@@ -1,0 +1,5 @@
+5 - Depuração (Debug)
+
+5.4 - Debug categorizado:
+
+Cria uma função com mensagens que apontam determinadas partes do código, em que pode-se exibir o conteúdo da variável/função ou somente como breakpoint;
