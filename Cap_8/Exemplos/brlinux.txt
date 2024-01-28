@@ -1,0 +1,515 @@
+   #publisher BR-Linux.org RSS Feed
+
+Visite também: UnderLinux ·  Dicas-L ·  SoftwareLivre.org ·  [mais] ·
+                                    Currículo ·  Efetividade ·  Arduino
+
+O que é Linux • Download Linux • Apostila Linux • Enviar notícia
+
+BR-Linux.org
+
+   Linux levado a sério desde 1996
+     __________________________________________________________________
+
+O BR-Linux voltou!
+
+   Tags: comunidade
+
+   Resumo: Temos uma instância oficial do BR-Linux no Mastodon, e já
+   voltamos a postar lá diariamente, há mais de um mês, o conteúdo sobre
+   Linux e Open Source, com resumos publicados também diariamente no
+   Twitter, e um feed RSS novo. Veja abaixo os links!
+
+   É difícil ficar afastado de um blog criado em 1996 e que ficou em
+   atividade contínua até 2018 (data do post abaixo, que iniciou nossa
+   pausa), e desde então venho postando conteúdos ocasionais sobre Linux e
+   código aberto no meu blog pessoal e no perfil do BR-Linux no Twitter.
+
+   Mais recentemente, isso acabou se reacelerando, e resolvi experimentar
+   postar em uma instância própria no Mastodon. E percebi que, no mês que
+   hoje se encerra, postei conteúdo do BR-Linux praticamente todos os dias
+   nesses canais.
+
+   É hora, portanto, de oficializar a volta. Não aqui no site diretamente,
+   mas nos 2 canais em que tenho postado conteúdo diariamente: o perfil do
+   Twitter (onde posto resumos) e a instância própria do BR-Linux no
+   Mastodon (onde dá pra postar um pouco mais de caracteres de cada vez, e
+   onde também posto sobre outros temas, em especial sobre tecnologia
+   vintage)
+
+   Convido-os, portanto, a acompanhar por lá, e peço que vocês me ajudem a
+   divulgar, porque é bem mais divertido quando tem interação e
+   integração.
+
+   Os links são:
+     * @augustocc@social.br-linux.org no Mastodon (criado este ano)
+     * @brlinuxblog no Twitter (é nosso perfil original desde 2010)
+
+   E se você está curioso sobre o Mastodon mas ainda não foi experimentar,
+   ou teve uma má experiência inicial e quer testar de novo, dê uma olhada
+   na minha thread de dicas para quem está acostumado ao Twitter e na tag
+   Mastodon do meu blog pessoal.
+
+   Espero vocês por lá e agradeço desde já o seu apoio na divulgação!
+
+   Augusto Campos
+   Siga: [Twitter] [Mastodon]
+
+   31/03/2023
+
+O BR-Linux está em pausa por tempo indeterminado
+
+   Tags:
+
+   Após algumas semanas tentando encontrar maneiras de continuar a
+   conciliar o meu interesse em postar regularmente aqui para vocês e as
+   exigências crescentes das minhas demais atividades, cheguei à conclusão
+   de que é melhor suspender as tentativas e deixar o blog em férias por
+   tempo indeterminado, enquanto não tiver condições de oferecer a atenção
+   que vocês merecem.
+
+   O BR-Linux está no ar ininterruptamente desde 1996. Nos tempos áureos
+   da primeira década do século XXI, cheguei a publicar médias de 12 a 15
+   artigos por dia, 7 dias por semana. Na década atual, o ritmo foi
+   diminuindo no compasso de pelo menos 2 outros fenômenos interessantes,
+   mas fora do meu domínio de interesse: a prevalência da disseminação de
+   informação por outras mídias (redes sociais, vídeos) e a crescente
+   mistura entre o noticiário sobre Linux e o noticiário corporativo.
+
+   Não são mudanças que me desagradam (pelo contrário, até), mas elas
+   contribuem para reduzir a demanda por um blog textual com quase 22 anos
+   de idade, cujo autor cada vez mais sente que já escreveu quase tudo que
+   tinha para dizer sobre o assunto.
+
+   Quero agradecer a todos que contribuíram, participaram, apoiaram,
+   leram, patrocinaram ou de outras formas fizeram parte da história do
+   BR-Linux até aqui. Quero registrar também que não tenho a menor dúvida
+   de que outros blogs, sites, fóruns, canais, grupos, sites e agremiações
+   continuarão a disponibilizar informações e agregar a comunidade.
+
+   Não removam o BR-Linux dos feeds de vocês, porque eu - como eu fiz
+   quando parei com o Efetividade.net, em circunstâncias similares - não
+   vou me furtar a eventualmente escrever algo por aqui, caso surja a
+   inspiração e o assunto. E deve surgir, porque continuo usuário de open
+   source e de Linux.
+
+   Desativei os comentários porque julguei que seria melhor evitar a
+   melancolia desta despedida, que pode ser por prazo curto. Se se
+   quiserem dar um alô, vocês podem me encontrar no twitter, como
+   @augustocc - de vez em quando posto sobre open source por lá,
+   inclusive.
+
+   Obrigado, e até a próxima!
+
+   Augusto Campos
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   17/04/2018
+
+Funçoes ZZ atinge maioridade: versão 18.3
+
+   Tags: shell
+
+   Funções ZZ é uma biblioteca de funções para o shell, com 150+
+   miniaplicativos prontos para serem usados na linha de comando do
+   UNIX/Linux/Mac. É um projeto de software livre 100% nacional, criado
+   por Aurelio Jargas no ano de 2000.
+
+   Em comemoração os 18 anos do projeto, foi lançada a versão 18.3,
+   trazendo nada menos do que 19 novas funções à biblioteca. Confira
+   alguns destaques entre as novidades:
+
+   - Codificação de caracteres: zzcodchar
+   - Conjugação verbal: zzconjugar
+   - Divisão de strings: zzcut, zzdividirtexto
+   - Diversão: zzexcuse, zzhoroscopo, zznerdcast, zzsheldon
+   - Utilitários: zzhsort, zzmcd, zzsqueeze, zztestar, zztimer
+   - Consultas: zzit, zzmacvendor, zztop
+   - E mais: zzimc, zzrepete, zzwc
+
+   São ao todo 179 funções diferentes, todas estão concentradas em um
+   único arquivo funcoeszz.sh. Baixe o arquivo, inclua em sua shell atual
+   e usufrua. Todas as funções contam com tela de ajuda (—help). Veja
+   exemplos de uso em http://funcoeszz.net.
+
+   Funções ZZ versão 18.3: download direto, instruções, changelog.
+   Referência: funcoeszz.net
+
+   Enviado por Itamar Santos de Souza (itamarnetΘyahoo·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+CloudFlare 1.1.1.1 e parceria com Firefox DoH
+
+   Tags: instalar, pos-pc, servidor
+
+   Qual servidor de DNS vocês costumam usar em seu ambiente?
+
+   No último domingo, sim, dia 01/04, também considerado o dia da mentira,
+   a CloudFlare lançou publicamente o seu serviço de DNS Público com um
+   endereço IP terrivelmente fácil de se lembrar : 1.1.1.1 e 1.0.0.1
+
+   A Mozilla quer começar com isso testando DNS over HTTPS no Firefox
+   Nightly de forma out-out, forçando o uso do servidor DoH recém lançado
+   (juntamente ao 1.1.1.1) da CloudFlare. Provavelmente, após o teste vão
+   dar a opção de configurar outros servidores DoH, mas não tem nada que
+   automatize isso, como receber essa configuração pela rede, via DHCP ou
+   PPPoE, por exemplo. Isso se deixarem em campo aberto, e não apenas
+   listarem opções públicas que julgarem confiáveis. Como a maioria dos
+   usuários não vai mexer nisso, vão usar o que vier. E os incentivos são
+   de que toda aplicação adote isso.
+
+   Com isso, depois de todo mundo montar recursivos locais, para reduzir
+   problemas com servidores externos e diminuir tempo de resposta, vamos
+   voltar a usar servidores hospedados na Internet, centralizados, e
+   talvez até geridos por quem tem interesse em acessar os dados de
+   navegação dos usuários, contrariando a justificativa da privacidade
+   (Google também tem servidores DoH e deve forçar no Chrome, Android e
+   tudo mais em breve, se já não o fez). E mais: provedores e operadoras
+   de acesso não vão ter controle sobre um recurso de rede que impacta
+   diretamente na qualidade da conexão de seus assinantes.
+
+   Alguém mais não está gostando dessa direção que estão tomando?
+
+   Por mim, a solução ideal seria DNS over TLS, - implementado pelas
+   aplicações interessadas nessa segurança extra, sem precisar instalar
+   daemon cliente, enquanto não é suportado nativamente pelo sistema
+   operacional - com o uso de servidores definidos na configuração de rede
+   (manualmente ou via DHCP ou PPPoE). Unbound e outros já suportam TLS.
+
+   [GTER] DNS over HTTPS (DoH): fim dos recursivos locais e a Internet
+   andando para trás?
+   Referência: homelaber.com.br
+
+   Enviado por Fábio Rodrigues Ribeiro (farribeiroΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Slint, Distro Baseada no Slackware e Acessível
+
+   Tags:
+
+   Um relato de acessibilidade no Linux do ponto de vista de uma
+   deficiente visual.
+   Referência: aiyumi.warpstar.net
+
+   Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Utilização de CPU em sistemas Linux multi-thread
+
+   Tags: monitoramento
+
+   O Hyper-threading (HT) é uma tecnologia da Intel introduzida nos
+   processadores Xeon em 2002 que permite que um núcleo do processador
+   execute mais de uma thread de uma única vez.
+
+   Apesar de simular dois processadores lógicos, o Hyper-threading não
+   oferece o dobro de desempenho como um núcleo físico. Segundo a Intel, o
+   aumento de desempenho é de até 30%, dependendo da configuração do
+   sistema. Os ganhos são mais expressivos em ambientes multitarefa.
+
+   Este breve artigo busca esclarecer quais são as implicações do
+   Hyper-threading no monitoramento de CPU dos sistemas Linux.
+   Referência: duda.blog.br
+
+   Enviado por Heitor Augusto Murari Cardozo (heitor·augustoΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Realidade Aumentada com 10 anos de idade e 10 linhas de código.
+
+   Tags: video
+
+   Neste vídeo meu filho Guilherme Basilio Faria, demonstra a tecnologia
+   de realidade aumentada em HTML5. Com apenas 10 anos de idade e 10
+   linhas de código, é possível prover aplicação com processamento em
+   tempo real para projeção de de objetos tridimensionais. E claro, tudo
+   baseado em software livre, em breve tutorial com os código fontes no
+   Viva O Linux.
+   Referência: youtube.com
+
+   Enviado por Alessandro de Oliveira Faria (A.K.A. CABELO)
+   (cabeloΘopensuse·org)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Nova versão da plataforma livre para o mapeamento de iniciativas em
+agroecologia
+
+   Tags: desenvolvedores
+
+   A plataforma Mapa da Agroecologia, uma ferramenta livre que permite o
+   mapeamento de iniciativas em Agroecologia, disponibilizou uma nova
+   versão. Esta traz correções e melhorias diversas, incluindo
+   aprimoramentos na interface, adição de novos campos e a opção de
+   tradução da interface (Português, Espanhol e Inglês).
+
+   A plataforma esta em constante evolução e é livre, estamos sempre
+   buscando parceiros para aprimorar o sistema, não somente fornecendo
+   informações sobre os locais que já realizam experiências em
+   agroecologia mas com sugestões e dicas de como melhorar a plataforma em
+   si. Por ser um Software Livre você pode contribuir com código,
+   documentação e tradução da interface.
+
+   Esta plataforma esta disponível como Software Livre, sobre a licença
+   GPLv3, e foi oficialmente apresentada durante o VI Congresso
+   Latino-americano de Agroecologia (#Agroecologia2017) que ocorreu em
+   Brasília, DF em 2017.
+
+   Conheça a Plataforma em funcionamento em
+   https://mapadaagroecologia.org/ e adicione o Local e a Experiência que
+   esta realizando para que possamos fomentar novas redes de colaboração.
+
+   Através do código-fonte é possível customizar a plataforma e
+   implantá-la em qualquer iniciativa que deseje mapear experiências de
+   agroecologia no Brasil.
+
+   O Código-fonte esta disponível em
+   https://gitlab.com/ITBio3/agroecologia e foi desenvolvido utilizando
+   Ruby on Rails.
+   Referência: mapadaagroecologia.org
+
+   Enviado por Marcelo Soares Souza (marceloΘitbio3·org)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Instalação do WordPress com Vagrant
+
+   Tags: apache, instalar, distribuicoes, desenvolvedores, containers
+
+   Esta é uma configuração do Vagrant que preparei para automatizar a
+   instalação do WordPress em uma máquina virtual rodando a versão 17.10
+   do Ubuntu, com as versões 2.4 do Apache HTTP Server, 7.1 do PHP, 10.1
+   do MariaDB, a última versão estável do WordPress e outras dependências.
+
+   Na verdade não há mistério na instalação de todo este ecossistema, o
+   problema está nos “pequenos detalhes” que podem te fazer perder algum
+   tempo caso sejam esquecidos — e o serão quando se tem alguma pressa!
+   Referência: giovannireisnunes.wordpress.com
+
+   Enviado por Giovanni Nunes (giovanni·nunesΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+DatabaseCast 82: Ciência e dados
+
+   Tags:
+
+   Neste episódio, Mauro Pichiliani (@pichiliani), Wagner Crivelini
+   (@wcrivelini) e os integrantes do podcast Pizza de Dados
+   (@pizzadedados) Letícia Portella (@leleportella), Jéssica Temporal
+   (@jesstemporal) e Gustavo Coelho (@gusrabbit) abrem a caixa da pizza
+   para falar sobre dados e ciência. Neste episódio especial para a
+   campanha #OPodcastÉDelas2018 confira como sair da oceanografia e ir
+   para a ciência de dados, porque montar um robô para analisar
+   reembolsos, como perder a paciência com o nome de um município e a
+   sábia lição de reconhecer e não se envergonhar de não saber o que está
+   fazendo metade do tempo!
+   Referência: databasecast.com.br
+
+   Enviado por Mauro Pichiliani (pichilianiΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Aplicando ferramentas open source para se dar bem no jogo Suikoden Tierkreis
+
+   Tags:
+
+   Este artigo discute como um técnico Open Source aprimora a própria
+   jogabilidade com soluções simples e práticas.
+   Referência: perspicazsite.wordpress.com
+
+   Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Tchelinux 2018: Chamada de palestras para Rio Grande
+
+   Tags: evento, gente-que-faz, comunidade
+
+   É com orgulho que anunciamos o primeiro evento do Tchelinux este ano!
+
+   O Tchelinux é um grupo comunitário que reúne entusiastas, usuários e
+   desenvolvedores de Software Livre no Rio Grande do Sul. O evento,
+   organizado por membros deste grupo e voluntários, tem como objetivo
+   integrar a comunidade de Software Livre com palestras, oficinas e
+   outros eventos, a fim de fortalecer a cultura de Software Livre no
+   estado do Rio Grande do Sul. Todos os eventos do Tchelinux são sempre
+   gratuitos, porém os participantes são encorajados a doar 2kg de
+   alimentos não-perecíveis, que são encaminhados a instituições de
+   caridade da cidade onde ocorre o evento.
+
+   Rio Grande, município brasileiro localizado no litoral sul do estado do
+   Rio Grande do Sul, está com a chamada de palestras aberta até dia 15 de
+   Abril de 2018. Então corre lá para participar!
+
+   https://riogrande.tchelinux.org/
+   Referência: riogrande.tchelinux.org
+
+   Enviado por Jerônimo Medina Madruga (jeronimo·madrugaΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Palestra on-line - conhecendo o Elastic Stack
+
+   Tags: patrocinador, evento
+
+   Será no dia 10/04, às 20:00, nossa palestra on-line sobre Elastic
+   Stack.
+
+   No evento vamos fazer demonstrações dos recursos, dos casos de uso e
+   dos recursos deste produto da Elastic que vem sendo cada vez mais
+   adotados por grandes empresas, como a Netflix, como estratégia de
+   armazenamento, busca de documentos e geração de estatísticas.
+   Referência: howtoonline.com.br
+
+   Enviado por Bruno Odon (admΘbrunoodon·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Curso gratuito básico de linux - Online e ao-vivo
+
+   Tags: curso, certificacao
+
+   Olá pessoal, dia 09/04 vamos iniciar um curso gratuito online e ao vivo
+   básico de linux. Este curso é indicado para quem nunca usou o linux na
+   vida ou para quem está iniciando. Divulgue para seu amigo que você quer
+   converter ao pinguim.
+
+   http://certificacoes.net.br/ltc/curso-basico-de-linux-gratuito/
+   Referência: certificacoes.net.br
+
+   Enviado por juliano ramos de oliveira (profjulianoramosΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Aulas Particulares de Programação em Shell Script
+
+   Tags: evento, curso, desenvolvedores
+
+   Sou programador da linguagem Shell desde 2005, já fiz algumas palestras
+   sobre o assunto e ensinei várias pessoas a começar a programar nesta
+   linguagem que é essencial em ambientes GNU/Linux. Me comprometo com
+   você a ser seu Professor Particular e ensinar o caminho certo a se
+   trilhar! Com um ensinamento totalmente prático e descontraído você vai
+   ver como programação não é algo de 7 cabeças! :)
+
+   As aulas possuem suporte pós aula para o aluno, assim garantindo uma
+   melhor aprendizagem!
+   Referência: slackjeff.com.br
+
+   Enviado por Jefferson Rocha (lrcjeffersonΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   6/04/2018
+
+Protoboard em quadrinhos: manual apresenta 10 circuitos divertidos e
+desafiadores que você mesmo pode construir
+
+   Tags: instalar, embarcados, livros
+
+   Dica para a turma que está embarcando no Open Hardware.
+   Como usar uma protoboard! Uma protoboard é uma base plástica usada para
+   construir circuitos. Os furos na parte superior da protoboard dão
+   acesso a grampos nas faixas metálicas que conduzem a corrente elétrica.
+   Ao inserir fios e componentes eletrônicos nos furos, é possível
+   construir uma variedade infinita de circuitos. E, uma vez que a
+   protoboard não usa solda, você pode, com facilidade, mover os
+   componentes ou mesmo desfazer completamente o circuito e reutilizar sua
+   protoboard para construir um novo circuito. Este manual no formato de
+   quadrinhos apresenta 10 circuitos divertidos e desafiadores que você
+   mesmo pode construir. Cada um é exibido como um diagrama de circuito e
+   com desenhos coloridos e fáceis de entender. Construa os circuitos
+   conforme os diagramas e depois os teste!
+
+   Neste livro, você encontrará instruções para os seguintes circuitos:
+   •Detector de escuridão •LED piscante •Grilo elétrico •LED que respira
+   •Sirene assustadora •Teremim luminoso •Órgão de blues •Luz sinalizadora
+   de bicicleta •Comutador de toque •Órgão de LEDs coloridos
+
+   Você também encontrará um “raio-X” mostrando a parte interna de sua
+   protoboard, além de uma tabela prática para entender os códigos de
+   cores dos resistores.
+   Referência: novatec.com.br
+
+   Enviado por Mariana Borges (mborgesΘnovatec·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   27/03/2018
+   ← Mais antigos
+     * Comentários dos leitores
+     *
+     * Twitter e RSS
+       [twitter16-273183.jpg] @augustocc
+       [rss-icon-small.jpg] Feed RSS
+       Histórico 2002-2014
+       Google
+       Digite os termos da sua pesquisa _________________________
+       ( ) Web (*) br-linux.org
+       Enviar formulário de pesquisa Pesquisar no BR-Linux
+     * BR-Linux apoia:
+
+
+     * Licenciamento Saiba mais sobre o BR-Linux. O conteúdo textual
+       original desta página está disponível sob a licença GNU FDL 1.2.
+       Veja os Termos de Uso para saber os detalhes sobre licenciamento,
+       políticas com relação ao conteúdo enviado pelos leitores (incluindo
+       comentários), moderação pública, privacidade e aspectos legais.
+
+                          [gprofile_button-32.png]
+
+     *
+
+                             Anuncie no BR-Linux
+     *
+
+     *
+     __________________________________________________________________
+
+   BR-Linux.org
+          Linux® levado a sério desde 1996. Notícias, dicas e tutoriais em
+          bom português sobre Linux e Código Aberto. "A página sobre
+          software livre mais procurada no Brasil", segundo a Revista
+          Isto É.
+
+   Expediente
+          Sobre o BR-Linux
+          Enviar notícia ou release
+          Contato, Termos de uso
+          FAQ, RSS
+          Anunciar no BR-Linux
+
+   Visite também
+          VivaOLinux
+          sites da comunidade
+
+   Ajuda
+          Publicar seu texto
+
+   © Augusto Campos. Conteúdo disponível sob a licença livre FDL. Consulte
+   os termos de uso.
+
+   Evento:
+
+   [devcamp-54546.png]
+   Powered by Axe. Linux (R) é marca registrada de Linus Torvalds. Os
+   direitos autorais de todas as ilustrações pertencem aos respectivos
+   autores, e elas são reproduzidas na intenção de atender ao disposto no
+   art. 46 da Lei 9.610 - se ainda assim alguma delas infringe direito
+   seu, entre em contato para que possamos removê-la imediatamente. O
+   conteúdo textual original desta página está disponível sob a licença
+   GNU FDL 1.2. Leia os Termos de Uso para saber mais detalhes - inclusive
+   sobre a política em relação aos comentários dos leitores.

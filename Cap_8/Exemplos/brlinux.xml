@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BR-Linux.org</title>
+	<atom:link href="https://br-linux.org/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://br-linux.org/</link>
+	<description>Desde 1996 levando o Linux a sério</description>
+	<lastBuildDate>Tue, 17 Apr 2018 23:56:03 -0300</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://augustocampos.net/</generator>
+		                <item>
+                <title><![CDATA[O BR-Linux está de volta!]]></title>
+                <link>https://br-linux.org/</link>
+                <pubDate>Fri, 31 Mar 2023 10:30:03 -0300</pubDate>
+                <dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+                <description><![CDATA[M
+Atualizei a capa do BR-Linux com os detalhes e links dessa nova etapa (incluindo um novo feed), não deixe de ir lá visitar e me ajudar a divulgar!M
+M
+M
+ ]]></description>
+                <content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Atualizei a capa do BR-Linux com os detalhes e links dessa nova etapa (incluindo um novo feed), não deixe de ir lá visitar e me ajudar a divulgar!</div>
+<div class=userlink><a href="https://br-linux.org/">Referência: br-linux.org
+<p><cite>Enviado por Augusto Campos (augustocc@social.br-linux.org)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "O BR-Linux está de volta!" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>                                  
+                </item>
+		<item>
+		<title><![CDATA[O BR-Linux está em pausa por tempo indeterminado]]></title>
+		<link>https://br-linux.org/2018/01/o-br-linux-esta-em-pausa-por-tempo-indeterminado.html</link>
+		<pubDate>Tue, 17 Apr 2018 23:56:04 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Após algumas semanas tentando encontrar maneiras de continuar a conciliar o meu interesse em postar regularmente aqui para vocês e as exigências crescentes das minhas demais atividades, cheguei à conclusão de que é melhor suspender as]]></description>
+		<content:encoded><![CDATA[<p>Após algumas semanas tentando encontrar maneiras de continuar a conciliar o meu interesse em postar regularmente aqui para vocês e as exigências crescentes das minhas demais atividades, cheguei à conclusão de que é melhor suspender as tentativas e deixar o blog em férias por tempo indeterminado, enquanto não tiver condições de oferecer a atenção que vocês merecem.</p>
+<p>O BR-Linux está no ar ininterruptamente desde 1996. Nos tempos áureos da primeira década do século XXI, cheguei a publicar médias de 12 a 15 artigos por dia, 7 dias por semana. Na década atual, o ritmo foi diminuindo no compasso de pelo menos 2 outros fenômenos interessantes, mas fora do meu domínio de interesse: a prevalência da disseminação de informação por outras mídias (redes sociais, vídeos) e a crescente mistura entre o noticiário sobre Linux e o noticiário corporativo.</p>
+<p>Não são mudanças que me desagradam (pelo contrário, até), mas elas contribuem para reduzir a demanda por um blog textual com quase 22 anos de idade, cujo autor cada vez mais sente que já escreveu quase tudo que tinha para dizer sobre o assunto.</p>
+<p>Quero agradecer a todos que contribuíram, participaram, apoiaram, leram, patrocinaram ou de outras formas fizeram parte da história do BR-Linux até aqui. Quero registrar também que não tenho a menor dúvida de que outros blogs, sites, fóruns, canais, grupos, sites e agremiações continuarão a disponibilizar informações e agregar a comunidade.</p>
+<p>Não removam o BR-Linux dos feeds de vocês, porque eu - como eu fiz quando parei com o Efetividade.net, em circunstâncias similares - não vou me furtar a eventualmente escrever algo por aqui, caso surja a inspiração e o assunto. E deve surgir, porque continuo usuário de open source e de Linux.</p>
+<p>Desativei os comentários porque julguei que seria melhor evitar a melancolia desta despedida, que pode ser por prazo curto. Se se quiserem dar um alô, vocês podem me encontrar no twitter, como <a href="https://twitter.com/augustocc">@augustocc</a> - de vez em quando posto sobre open source por lá, inclusive.</p>
+<p>Obrigado, e até a próxima!</p>
+<p>Augusto Campos</p>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/o-br-linux-esta-em-pausa-por-tempo-indeterminado.html">O BR-Linux está em pausa por tempo indeterminado</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Funçoes ZZ atinge maioridade: versão 18.3]]></title>
+		<link>https://br-linux.org/2018/01/funcoes-zz-atinge-maioridade-versao-183.html</link>
+		<pubDate>Fri, 06 Apr 2018 11:00:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Funções ZZ é uma biblioteca de funções para o shell, com 150+ miniaplicativos prontos para serem usados na linha de comando do UNIX/Linux/Mac.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Funções ZZ é uma biblioteca de funções para o shell, com 150+ miniaplicativos prontos para serem usados na linha de comando do UNIX/Linux/Mac. É um projeto de software livre 100% nacional, criado por Aurelio Jargas no ano de 2000.     </p>
+<p>    Em comemoração os 18 anos do projeto, foi lançada a versão 18.3, trazendo nada menos do que 19 novas funções à biblioteca. Confira alguns destaques entre as novidades:     </p>
+<p>- Codificação de caracteres: zzcodchar<br />
+- Conjugação verbal: zzconjugar<br />
+- Divisão de strings: zzcut, zzdividirtexto<br />
+- Diversão: zzexcuse, zzhoroscopo, zznerdcast, zzsheldon<br />
+- Utilitários: zzhsort, zzmcd, zzsqueeze, zztestar, zztimer<br />
+- Consultas: zzit, zzmacvendor, zztop<br />
+- E mais: zzimc, zzrepete, zzwc     </p>
+<p>    São ao todo 179 funções diferentes, todas estão concentradas em um único arquivo funcoeszz.sh. Baixe o arquivo, inclua em sua shell atual e usufrua. Todas as funções contam com tela de ajuda (—help). Veja exemplos de uso em <a href="http://funcoeszz.net">http://funcoeszz.net</a>.     </p>
+<p>Funções ZZ versão 18.3: <a href="http://funcoeszz.net/download/funcoeszz-18.3.sh">download direto</a>, <a href="http://funcoeszz.net/download/">instruções</a>, <a href="http://funcoeszz.net/changelog.html">changelog</a>.</div>
+<div class=userlink><a href="http://funcoeszz.net/">Referência: funcoeszz.net</a></div>
+<p><cite>Enviado por Itamar Santos de Souza (itamarnetΘyahoo·com·br)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/funcoes-zz-atinge-maioridade-versao-183.html">Funçoes ZZ atinge maioridade: versão 18.3</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[CloudFlare 1.1.1.1 e parceria com Firefox DoH]]></title>
+		<link>https://br-linux.org/2018/01/cloudflare-1111-e-parceria-com-firefox-doh.html</link>
+		<pubDate>Fri, 06 Apr 2018 10:45:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Qual servidor de DNS vocês costumam usar em seu ambiente?]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Qual servidor de DNS vocês costumam usar em seu ambiente?     </p>
+<p>No último domingo, sim, dia 01/04, também considerado o dia da mentira, a CloudFlare lançou publicamente o seu serviço de DNS Público com um endereço IP terrivelmente fácil de se lembrar : 1.1.1.1 e 1.0.0.1     </p>
+<p>A Mozilla quer começar com isso testando DNS over HTTPS no Firefox Nightly de forma out-out, forçando o uso do servidor DoH recém lançado (juntamente ao 1.1.1.1) da CloudFlare. Provavelmente, após o teste vão dar a opção de configurar outros servidores DoH, mas não tem nada que automatize isso, como receber essa configuração pela rede, via DHCP ou PPPoE, por exemplo. Isso se deixarem em campo aberto, e não apenas listarem opções públicas que julgarem confiáveis. Como a maioria dos usuários não vai mexer nisso, vão usar o que vier. E os incentivos são de que toda aplicação adote isso.     </p>
+<p>Com isso, depois de todo mundo montar recursivos locais, para reduzir problemas com servidores externos e diminuir tempo de resposta, vamos voltar a usar servidores hospedados na Internet, centralizados, e talvez até geridos por quem tem interesse em acessar os dados de navegação dos usuários, contrariando a justificativa da privacidade (Google também tem servidores DoH e deve forçar no Chrome, Android e tudo mais em breve, se já não o fez). E mais: provedores e operadoras de acesso não vão ter controle sobre um recurso de rede que impacta diretamente na qualidade da conexão de seus assinantes.     </p>
+<p>Alguém mais não está gostando dessa direção que estão tomando?     </p>
+<p>Por mim, a solução ideal seria DNS over TLS, - implementado pelas aplicações interessadas nessa segurança extra, sem precisar instalar daemon cliente, enquanto não é suportado nativamente pelo sistema operacional - com o uso de servidores definidos na configuração de rede (manualmente ou via DHCP ou PPPoE). Unbound e outros já suportam TLS.     </p>
+<p><a href="https://eng.registro.br/pipermail/gter/2018-April/073598.html">[GTER] DNS over HTTPS (DoH): fim dos recursivos locais e a Internet andando para trás?</a></div>
+<div class=userlink><a href="http://homelaber.com.br/novo-servico-dns-cloudflare-1-1-1-1/">Referência: homelaber.com.br</a></div>
+<p><cite>Enviado por Fábio Rodrigues Ribeiro (farribeiroΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/cloudflare-1111-e-parceria-com-firefox-doh.html">CloudFlare 1.1.1.1 e parceria com Firefox DoH</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Slint, Distro Baseada no Slackware e Acessível]]></title>
+		<link>https://br-linux.org/2018/01/slint-distro-baseada-no-slackware-e-acessivel.html</link>
+		<pubDate>Fri, 06 Apr 2018 10:30:03 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[
+Um relato de acessibilidade no Linux do ponto de vista de uma deficiente visual.
+
+Referência: aiyumi.warpstar.net
+Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)
+
+
+
+ ]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Um relato de acessibilidade no Linux do ponto de vista de uma deficiente visual.</div>
+<div class=userlink><a href="http://aiyumi.warpstar.net/pt/blog/slint-linux-review/">Referência: aiyumi.warpstar.net</a></div>
+<p><cite>Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/slint-distro-baseada-no-slackware-e-acessivel.html">Slint, Distro Baseada no Slackware e Acessível</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Utilização de CPU em sistemas Linux multi-thread]]></title>
+		<link>https://br-linux.org/2018/01/utilizacao-de-cpu-em-sistemas-linux-multi-thread.html</link>
+		<pubDate>Fri, 06 Apr 2018 10:15:02 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[O Hyper-threading (HT) é uma tecnologia da Intel introduzida nos processadores Xeon em 2002 que permite que um núcleo do processador execute mais de uma thread de uma única vez.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>O Hyper-threading (HT) é uma tecnologia da Intel introduzida nos processadores Xeon em 2002 que permite que um núcleo do processador execute mais de uma thread de uma única vez.     </p>
+<p>Apesar de simular dois processadores lógicos, o Hyper-threading não oferece o dobro de desempenho como um núcleo físico. Segundo a Intel, o aumento de desempenho é de até 30%, dependendo da configuração do sistema. Os ganhos são mais expressivos em ambientes multitarefa.     </p>
+<p>Este breve artigo busca esclarecer quais são as implicações do Hyper-threading no monitoramento de CPU dos sistemas Linux.</p></div>
+<div class=userlink><a href="http://duda.blog.br/2018/02/utilizacao-de-cpu-em-sistemas-linux-multi-thread/">Referência: duda.blog.br</a></div>
+<p><cite>Enviado por Heitor Augusto Murari Cardozo (heitor·augustoΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/utilizacao-de-cpu-em-sistemas-linux-multi-thread.html">Utilização de CPU em sistemas Linux multi-thread</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Realidade Aumentada com 10 anos de idade e 10 linhas de código.]]></title>
+		<link>https://br-linux.org/2018/01/realidade-aumentada-com-10-anos-de-idade-e-10-linhas-de-codigo.html</link>
+		<pubDate>Fri, 06 Apr 2018 10:00:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Neste vídeo meu filho Guilherme Basilio Faria, demonstra a tecnologia de realidade aumentada em HTML5.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Neste vídeo meu filho Guilherme Basilio Faria, demonstra a tecnologia de realidade aumentada em HTML5. Com apenas 10 anos de idade e 10 linhas de código, é possível prover aplicação com processamento em tempo real para projeção de de objetos tridimensionais. E claro, tudo baseado em software livre, em breve tutorial com os código fontes no Viva O Linux. </div>
+<div class=userlink><a href="https://www.youtube.com/watch?v=Y4IxwmhkhLg">Referência: youtube.com</a></div>
+<p><cite>Enviado por Alessandro de Oliveira Faria (A.K.A. CABELO) (cabeloΘopensuse·org)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/realidade-aumentada-com-10-anos-de-idade-e-10-linhas-de-codigo.html">Realidade Aumentada com 10 anos de idade e 10 linhas de código.</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Nova versão da plataforma livre para o mapeamento de iniciativas em agroecologia]]></title>
+		<link>https://br-linux.org/2018/01/nova-versao-da-plataforma-livre-para-o-mapeamento-de-iniciativas-em-agroecologia.html</link>
+		<pubDate>Fri, 06 Apr 2018 09:45:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[A plataforma Mapa da Agroecologia, uma ferramenta livre que permite o mapeamento de iniciativas em Agroecologia, disponibilizou uma nova versão.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>A plataforma Mapa da Agroecologia, uma ferramenta livre que permite o mapeamento de iniciativas em Agroecologia, disponibilizou uma nova versão. Esta traz correções e melhorias diversas, incluindo aprimoramentos na interface, adição de novos campos e a opção de tradução da interface (Português, Espanhol e Inglês).      </p>
+<p>A plataforma esta em constante evolução e é livre, estamos sempre buscando parceiros para aprimorar o sistema, não somente fornecendo informações sobre os locais que já realizam experiências em agroecologia mas com sugestões e dicas de como melhorar a plataforma em si. Por ser um Software Livre você pode contribuir com código, documentação e tradução da interface.      </p>
+<p>Esta plataforma esta disponível como Software Livre, sobre a licença GPLv3, e foi oficialmente apresentada durante o VI Congresso Latino-americano de Agroecologia (#Agroecologia2017) que ocorreu em Brasília, DF em 2017.       </p>
+<p>Conheça a Plataforma em funcionamento em https://mapadaagroecologia.org/ e adicione o Local e a Experiência que esta realizando para que possamos fomentar novas redes de colaboração.       </p>
+<p>Através do código-fonte é possível customizar a plataforma e implantá-la em qualquer iniciativa que deseje mapear experiências de agroecologia no Brasil.      </p>
+<p>O Código-fonte esta disponível em https://gitlab.com/ITBio3/agroecologia e foi desenvolvido utilizando Ruby on Rails.</p></div>
+<div class=userlink><a href="https://mapadaagroecologia.org/">Referência: mapadaagroecologia.org</a></div>
+<p><cite>Enviado por Marcelo Soares Souza (marceloΘitbio3·org)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/nova-versao-da-plataforma-livre-para-o-mapeamento-de-iniciativas-em-agroecologia.html">Nova versão da plataforma livre para o mapeamento de iniciativas em agroecologia</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Instalação do WordPress com Vagrant]]></title>
+		<link>https://br-linux.org/2018/01/instalacao-do-wordpress-com-vagrant.html</link>
+		<pubDate>Fri, 06 Apr 2018 09:30:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Esta é uma configuração do Vagrant que preparei para automatizar a instalação do WordPress em uma máquina virtual rodando a versão 17.10 do Ubuntu, com as versões 2.4 do Apache HTTP Server, 7.1 do PHP, 10.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Esta é uma configuração do Vagrant que preparei para automatizar a instalação do WordPress em uma máquina virtual rodando a versão 17.10 do Ubuntu, com as versões 2.4 do Apache HTTP Server, 7.1 do PHP, 10.1 do MariaDB, a última versão estável do WordPress e outras dependências.     </p>
+<p>Na verdade não há mistério na instalação de todo este ecossistema, o problema está nos “pequenos detalhes” que podem te fazer perder algum tempo caso sejam esquecidos — e o serão quando se tem alguma pressa!</p></div>
+<div class=userlink><a href="https://giovannireisnunes.wordpress.com/2018/03/30/instalacao-do-wordpress-com-vagrant/">Referência: giovannireisnunes.wordpress.com</a></div>
+<p><cite>Enviado por Giovanni Nunes (giovanni·nunesΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/instalacao-do-wordpress-com-vagrant.html">Instalação do WordPress com Vagrant</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[DatabaseCast 82: Ciência e dados]]></title>
+		<link>https://br-linux.org/2018/01/databasecast-82-ciencia-e-dados.html</link>
+		<pubDate>Fri, 06 Apr 2018 09:15:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Neste episódio, Mauro Pichiliani (@pichiliani), Wagner Crivelini (@wcrivelini) e os integrantes do podcast Pizza de Dados (@pizzadedados) Letícia Portella (@leleportella), Jéssica Temporal (@jesstemporal) e Gustavo Coelho (@gusrabbit)]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Neste episódio, Mauro Pichiliani (@pichiliani), Wagner Crivelini (@wcrivelini) e os integrantes do podcast Pizza de Dados (@pizzadedados) Letícia Portella (@leleportella), Jéssica Temporal (@jesstemporal) e Gustavo Coelho (@gusrabbit) abrem a caixa da pizza para falar sobre dados e ciência. Neste episódio especial para a campanha #OPodcastÉDelas2018 confira como sair da oceanografia e ir para a ciência de dados, porque montar um robô para analisar reembolsos, como perder a paciência com o nome de um município e a sábia lição de reconhecer e não se envergonhar de não saber o que está fazendo metade do tempo!</div>
+<div class=userlink><a href="http://databasecast.com.br/wp/databasecast-82-ciencia-e-dados/">Referência: databasecast.com.br</a></div>
+<p><cite>Enviado por Mauro Pichiliani (pichilianiΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/databasecast-82-ciencia-e-dados.html">DatabaseCast 82: Ciência e dados</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Aplicando ferramentas open source para se dar bem no jogo Suikoden Tierkreis]]></title>
+		<link>https://br-linux.org/2018/01/aplicando-ferramentas-open-source-para-se-dar-bem-no-jogo-suikoden-tierkreis.html</link>
+		<pubDate>Fri, 06 Apr 2018 09:00:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[
+Este artigo discute como um técnico Open Source aprimora a própria jogabilidade com soluções simples e práticas.
+
+Referência: perspicazsite.wordpress.com
+Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)
+
+
+
+ ]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Este artigo discute como um técnico Open Source aprimora a própria jogabilidade com soluções simples e práticas.</div>
+<div class=userlink><a href="https://perspicazsite.wordpress.com/2018/03/28/como_aprendi_a_fazer_dinheiro_no_jogo_suikoden_tierkreis/">Referência: perspicazsite.wordpress.com</a></div>
+<p><cite>Enviado por Ronaldo Ferreira de Lima (jimmy·ttyΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/aplicando-ferramentas-open-source-para-se-dar-bem-no-jogo-suikoden-tierkreis.html">Aplicando ferramentas open source para se dar bem no jogo Suikoden Tierkreis</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Tchelinux 2018: Chamada de palestras para Rio Grande]]></title>
+		<link>https://br-linux.org/2018/01/tchelinux-2018-chamada-de-palestras-para-rio-grande.html</link>
+		<pubDate>Fri, 06 Apr 2018 08:45:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[É com orgulho que anunciamos o primeiro evento do Tchelinux este ano!         O Tchelinux é um grupo comunitário que reúne entusiastas, usuários e desenvolvedores de Software Livre no Rio Grande do Sul.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>É com orgulho que anunciamos o primeiro evento do Tchelinux este ano!     </p>
+<p>O Tchelinux é um grupo comunitário que reúne entusiastas, usuários e desenvolvedores de Software Livre no Rio Grande do Sul. O evento, organizado por membros deste grupo e voluntários, tem como objetivo integrar a comunidade de Software Livre com palestras, oficinas e outros eventos, a fim de fortalecer a cultura de Software Livre no estado do Rio Grande do Sul. Todos os eventos do Tchelinux são sempre gratuitos, porém os participantes são encorajados a doar 2kg de alimentos não-perecíveis, que são encaminhados a instituições de caridade da cidade onde ocorre o evento.     </p>
+<p>Rio Grande, município brasileiro localizado no litoral sul do estado do Rio Grande do Sul, está com a chamada de palestras aberta até dia 15 de Abril de 2018. Então corre lá para participar!     </p>
+<p>https://riogrande.tchelinux.org/</p></div>
+<div class=userlink><a href="https://riogrande.tchelinux.org/">Referência: riogrande.tchelinux.org</a></div>
+<p><cite>Enviado por Jerônimo Medina Madruga (jeronimo·madrugaΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/tchelinux-2018-chamada-de-palestras-para-rio-grande.html">Tchelinux 2018: Chamada de palestras para Rio Grande</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Palestra on-line - conhecendo o Elastic Stack]]></title>
+		<link>https://br-linux.org/2018/01/palestra-on-line-conhecendo-o-elastic-stack.html</link>
+		<pubDate>Fri, 06 Apr 2018 08:30:04 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Será no dia 10/04, às 20:00, nossa palestra on-line sobre Elastic Stack.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Será no dia 10/04, às 20:00, nossa palestra on-line sobre Elastic Stack.     </p>
+<p>No evento vamos fazer demonstrações dos recursos, dos casos de uso e dos recursos deste produto da Elastic que vem sendo cada vez mais adotados por grandes empresas, como a Netflix, como estratégia de armazenamento, busca de documentos e geração de estatísticas.</p></div>
+<div class=userlink><a href="https://howtoonline.com.br/?p=3013">Referência: howtoonline.com.br</a></div>
+<p><cite>Enviado por Bruno Odon (admΘbrunoodon·com·br)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/palestra-on-line-conhecendo-o-elastic-stack.html">Palestra on-line - conhecendo o Elastic Stack</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Curso gratuito básico de linux - Online e ao-vivo]]></title>
+		<link>https://br-linux.org/2018/01/curso-gratuito-basico-de-linux-online-e-ao-vivo.html</link>
+		<pubDate>Fri, 06 Apr 2018 08:15:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Olá pessoal, dia 09/04 vamos iniciar um curso gratuito online e ao vivo básico de linux.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Olá pessoal, dia 09/04 vamos iniciar um curso gratuito online e ao vivo básico de linux. Este curso é indicado para quem nunca usou o linux na vida ou para quem está iniciando. Divulgue para seu amigo que você quer converter ao pinguim.     </p>
+<p><a href="http://certificacoes.net.br/ltc/curso-basico-de-linux-gratuito/">http://certificacoes.net.br/ltc/curso-basico-de-linux-gratuito/</a></div>
+<div class=userlink><a href="http://certificacoes.net.br/ltc/curso-basico-de-linux-gratuito/">Referência: certificacoes.net.br</a></div>
+<p><cite>Enviado por juliano ramos de oliveira (profjulianoramosΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/curso-gratuito-basico-de-linux-online-e-ao-vivo.html">Curso gratuito básico de linux - Online e ao-vivo</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Aulas Particulares de Programação em Shell Script]]></title>
+		<link>https://br-linux.org/2018/01/aulas-particulares-de-programacao-em-shell-script.html</link>
+		<pubDate>Fri, 06 Apr 2018 08:00:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Sou programador da linguagem Shell desde 2005, já fiz algumas palestras sobre o assunto e ensinei várias pessoas a começar a programar nesta linguagem que é essencial em ambientes GNU/Linux.]]></description>
+		<content:encoded><![CDATA[<div class=userpost>
+<div class=userpostbody>Sou programador da linguagem Shell desde 2005, já fiz algumas palestras sobre o assunto e ensinei várias pessoas a começar a programar nesta linguagem que é essencial em ambientes GNU/Linux.     Me comprometo com você a ser seu Professor Particular e ensinar o caminho certo a se trilhar!     Com um ensinamento totalmente prático e descontraído você vai ver como programação não é algo de 7 cabeças! :)     </p>
+<p>As aulas possuem suporte pós aula para o aluno, assim garantindo uma melhor aprendizagem!</p></div>
+<div class=userlink><a href="http://www.slackjeff.com.br/p/aulas-particulares.html">Referência: slackjeff.com.br</a></div>
+<p><cite>Enviado por Jefferson Rocha (lrcjeffersonΘgmail·com)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/aulas-particulares-de-programacao-em-shell-script.html">Aulas Particulares de Programação em Shell Script</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+		<item>
+		<title><![CDATA[Protoboard em quadrinhos: manual apresenta 10 circuitos divertidos e desafiadores  que você mesmo pode construir]]></title>
+		<link>https://br-linux.org/2018/01/protoboard-em-quadrinhos-manual-apresenta-10-circuitos-divertidos-e-desafiadores-que-voce-mesmo-pode-construir.html</link>
+		<pubDate>Tue, 27 Mar 2018 08:00:01 -0300</pubDate>
+		<dc:creator><![CDATA[Augusto Campos]]></dc:creator>
+		<description><![CDATA[Dica para a turma que está embarcando no Open Hardware.  Como usar uma protoboard!]]></description>
+		<content:encoded><![CDATA[<p>Dica para a turma que está embarcando no Open Hardware.</p>
+<div class=userpost>
+<div class=userpostbody>Como usar uma protoboard!     Uma protoboard é uma base plástica usada para construir circuitos. Os furos na parte superior da protoboard dão acesso a grampos nas faixas metálicas que conduzem a corrente elétrica. Ao inserir fios e componentes eletrônicos nos furos, é possível construir uma variedade infinita de circuitos. E, uma vez que a protoboard não usa solda, você pode, com facilidade, mover os componentes ou mesmo desfazer completamente o circuito e reutilizar sua protoboard para construir um novo circuito.     Este manual no formato de quadrinhos apresenta 10 circuitos divertidos e desafiadores que você mesmo pode construir. Cada um é exibido como um diagrama de circuito e com desenhos coloridos e fáceis de entender. Construa os circuitos conforme os diagramas e depois os teste!     </p>
+<p>Neste livro, você encontrará instruções para os seguintes circuitos:     •Detector de escuridão     •LED piscante     •Grilo elétrico     •LED que respira     •Sirene assustadora     •Teremim luminoso     •Órgão de blues     •Luz sinalizadora de bicicleta     •Comutador de toque     •Órgão de LEDs coloridos     </p>
+<p>Você também encontrará um “raio-X” mostrando a parte interna de sua protoboard, além de uma tabela prática para entender os códigos de cores dos resistores.</p></div>
+<div class=userlink><a href="https://novatec.com.br/livros/como-usar-uma-protoboard/ ">Referência: novatec.com.br</a></div>
+<p><cite>Enviado por Mariana Borges (mborgesΘnovatec·com·br)</cite>
+</div>
+<p style="margin-top:1.5em; border-top:1px solid #d0d0d0;padding-top:0.3em;"><i>O artigo "<a href="https://br-linux.org/2018/01/protoboard-em-quadrinhos-manual-apresenta-10-circuitos-divertidos-e-desafiadores-que-voce-mesmo-pode-construir.html">Protoboard em quadrinhos: manual apresenta 10 circuitos divertidos e desafiadores  que você mesmo pode construir</a>" foi originalmente publicado no site <a href="https://br-linux.org/">BR-Linux.org</a>, de <a href="https://augustocampos.net/">Augusto Campos</a>.</i></p>]]></content:encoded>					
+		</item>
+	</channel>
+</rss>
