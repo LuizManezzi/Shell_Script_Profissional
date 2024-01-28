@@ -1,0 +1,2 @@
+tr '\n' ' ' < "index.html" | awk 'hsub("<[^/]", "\n&")' | fgrep -i '>texourl<a/>' | tr A-Z a-z | tr -d \" | sed 's./*href=// ; s/>.*//'
+

@@ -1,0 +1,2 @@
+echo 'arquivo|html' | sed 's/<[^>]*>//g'
+

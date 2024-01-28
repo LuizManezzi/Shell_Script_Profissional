@@ -1,0 +1,5 @@
+Sites para aprendizado de expressões regulares:
+
+txt2regex.sourceforge.net
+regexpal.com
+aurelio.net/regex/
