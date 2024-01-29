@@ -13,9 +13,12 @@ URL="http://br-linux.org/linux/node/feed"
 # head limita o número de manchetes em 5.
 #
 
+
 lynx -source "$URL" | 
-	grep '<title><!\[' |
+	grep '<title><!\[CDATA\[' |
 	sed '
-		s/<[^CDATA[]*]//g
-		s/&quot;/"/g' |
+		s/<[^!<\[CDATA\[]*<!\[CDATA\[//g
+		s/\]\]>.*//g
+		s/^	*//
+		1d'|
 	head -n 5
