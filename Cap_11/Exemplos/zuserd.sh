@@ -6,9 +6,15 @@
 # Requisitos: bantex.sh, dialog
 #
 # 01-02-2024 - MZKY
+# 04-02-2024 - MZKY - V1:
+# - Corrigido bug com caracteres especias nos inputs (Adicionado a variável carac_espec)
+#
 
 # Localização do arquivo do banco de dados
 BANCO=usuarios.txt
+
+# Trata os caracteres especiais dos inputs
+carac_espec='s/[[:alpha:]];[[:alnum:]]//g'
 
 # Inclui o gerenciador do banco
 source bantex-4.sh || {
@@ -24,7 +30,7 @@ do
 		lista "Lista todos os usuários do sistema" \
 		adiciona "Adiciona um novo usuário no sistema" \
 		remove "Remove um usuário do sistema")
-	[ $? -ne 0 ] | echo -e '\033c' && exit 
+	[ $? -ne 0 ] && exit 
 	
 	# Lida com os comandos recebidos
 	case "$acao" in
@@ -40,6 +46,8 @@ do
 
 		adiciona)
 			login=$(dialog --stdout --inputbox "Digite o login:" 0 0)
+			
+			login=$(echo "$login" | sed "$carac_espec")
 			[ $? -ne 0 ] && continue
 			[ "$login" ] || continue
 
@@ -52,6 +60,7 @@ do
 
 			# Ok, é um usuário novo, prossigamos
 			nome=$(dialog --stdout --inputbox "Nome Completo:" 0 0 )
+			nome=$(echo "$nome" | sed "$carac_espec")
 			[ $? -ne 0 ] && continue
 
 			idade=$(dialog --stdout --inputbox "Idade:" 0 0)
@@ -74,18 +83,19 @@ do
 
 		remove)
 			# Obtém a lista de usuários
+
 			usuarios=$(pega_campo 1,2 | sed 1d)
-			usuarios=$(echo "$usuarios" | sed 's/:/ "/;s/$/"/')
+			usuarios=$(echo "$usuarios" | sed 's/:/ "/; s/$/"/')
 
 			login=$(eval dialog --stdout \
 				--menu \"Escolha o usuário a remover\" \
 				0 0 0 $usuarios)
 			[ $? -ne 0 ] && continue
 
-			msg=$(apaga_registro "$login")
-			dialog --title "Resultado" --msgbox "$msg" 6 40
+			login_tratado=$(echo "$login" | sed "$carac_espec")
+			msg=$(apaga_registro "$login_tratado")
+			dialog --title "Resultado" --msgbox "$login_tratado" 6 40
 		;;
 	esac
-echo -e '\033c'
 done
 echo -e '\033c'

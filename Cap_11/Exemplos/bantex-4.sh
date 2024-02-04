@@ -14,6 +14,8 @@
 # - Adicionada verificão de permissões do arquivo do banco
 # - Adicionada função pega_campo()
 # - Adicionadas funções mascara() e desmascara() e $MASCARA
+# 03-02-2024 - MZKY - V5:
+# - Corrigido bug com caracteres especiais (Adicionado a variável carac_espec)
 #
 
 
@@ -22,6 +24,7 @@
 SEP=:			  		# Defina aqui o separador, padrão é ":" 
 TEMP=temp.$$				# Arquivo temporário
 MASCARA=§	                        # Caractere exótico para mascarar o separador
+carac_espec='s/[[:alpha:]];[[:alnum:]]//g' # Trata os caracteres especiais dentro dos campos
 
 #-----------------------------------------[ FUNÇÕES ]--------------------------------------
 
@@ -71,7 +74,7 @@ insere_registro() {
 # Mostra o valor do campo número $1 do registro de chave $2 (opcional)
 pega_campo() {
         local chave=${2:-.*}
-        grep -i "^$chave$SEP" "$BANCO" | cut -d $SEP -f $1 | desmascara
+	grep -i "^$chave$SEP" "$BANCO" | sed "$carac_espec" | cut -d $SEP -f $1
 }
 
 # Mostra os nomes dos campos do banco, um por linha
