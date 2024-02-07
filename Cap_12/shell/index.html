@@ -1,0 +1,204 @@
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Fontes google-->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+		rel="stylesheet">
+	<!-- Fim fontes-->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<!-- Fim bootstrap -->
+	<link rel="stylesheet" href="style.css">
+	<title>Trabalhando com Shell Script</title>
+	<script src="script.js"></script>
+</head>
+
+<body>
+
+	<header>
+		<div class="interface">
+			<div class="logo">
+				<a href="#">
+					<img src="/shell/img/logo.png" alt="Bash logo">
+				</a>
+			</div><!--Logo-->
+			<div class="menu-desktop">
+				<nav>
+					<ul>
+						<li><a href="#">Inicio</a></li>
+						<li><a href="#especialidades">Especialidades</a></li>
+						<li><a href="#sobre">Sobre</a></li>
+						<li><a href="#">Projetos</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<button onclick="abrirmenu()" id="btn-menu">
+				<span class="linha"></span>
+				<span class="linha"></span>
+				<span class="linha"></span>
+				<span class="linha"></span>
+			</button>
+
+			<div class="menu-mobile" id="menu-mobile">
+				<nav>
+					<ul>
+						<li><a href="#">Inicio</a></li>
+						<li><a href="#especialidades">Especialidades</a></li>
+						<li><a href="#sobre">Sobre</a></li>
+						<li><a href="#">Projetos</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div class="btn-contato">
+				<a href="#">
+					<button>Contato</button>
+				</a>
+			</div><!--btn-contato-->
+
+		</div><!--interface-->
+	</header>
+
+	<main>
+		<section class="topo-do-site" id="topo-do-site">
+			<div class="interface">
+				<div class="flex">
+					<div class="txt-topo-site">
+						<h1> Web Developer<span>.</span></h1>
+						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo aut pariatur vero praesentium
+							deleniti explicabo perferendis similique ipsa, deserunt dolores ut aliquam veritatis!
+							Molestias aliquam consequatur ipsa obcaecati. Necessitatibus, dolores!</p>
+
+						<div class="btn-contato">
+							<a href="#">
+								<button>Entre em contato</button>
+							</a>
+						</div>
+					</div>
+
+					<div class="img-topo-site">
+						<img src="/shell/img/neo.jpg" width="350px" alt="neo">
+					</div>
+
+				</div>
+			</div>
+		</section><!-- Fim topo-site-->
+
+		<section class="especialidades" id="especialidades">
+			<div class="interface">
+				<h2 class="titulo">MINHAS <span>ESPECIALIDADES.</span></h2>
+				<div class="flex">
+					<div class="especialidades-box">
+						<i class="bi bi-filetype-sh"></i>
+						<h3> Shell Script </h3>
+						<p> Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+					</div>
+					<div class="especialidades-box">
+						<i class="bi bi-filetype-js"></i>
+						<h3> JavaScript </h3>
+						<p> Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+					</div>
+					<div class="especialidades-box">
+						<i class="bi bi-filetype-sql"></i>
+						<h3> SQL </h3>
+						<p> Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+					</div>
+				</div>
+
+			</div>
+		</section><!-- Fim Especialidades-->
+
+		<section class="sobre" id="sobre">
+
+			<div class="interface">
+				<div class="flex">
+					<div class="img-sobre">
+						<img src="/shell/img/whoami.jpg" alt="whoami">
+					</div>
+
+					<div class="txt-sobre">
+						<h2>QUEM SOU EU? <span>WHOAMI</span></h2>
+						<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, exercitationem.
+							Magnam voluptates nisi, explicabo perferendis distinctio minima quas voluptatibus cum culpa
+							labore dignissimos omnis error similique a accusamus officiis quisquam.</p>
+
+						<div class="btn-social">
+							<a href="https://www.instagram.com/luiz_manezzi/" target="_blank"><button><i
+										class="bi bi-instagram"></i></button></a>
+							<a href="#"><button><i class="bi bi-twitter-x"></i></button></a>
+							<a href="#"><button><i class="bi bi-linkedin"></i></button></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section><!--Fim sobre-->
+
+		<section class="portfolio">
+			<div class="interface">
+				<h2 class="titulo">MEU <span>PORTFÓLIO</span></h2>
+				<div class="flex">
+					<div class="img-port" style="background-image: url(img/matrix_cli.gif);">
+						<div class="overlay">Projeto em Shell</div>
+					</div>
+					<div class="img-port" style="background-image: url(img/matrix_cli.gif);">
+						<div class="overlay">Projeto em JS</div>
+					</div>
+					<div class="img-port" style="background-image: url(img/matrix_cli.gif);">
+						<div class="overlay">Projeto com SQL</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- Fim portfolio-->
+
+		<section class="formulario">
+			<div class="interface">
+				<h2 class="titulo">FALA <span>COMIGO BEBÊ.</span></h2>
+
+				<form action="">
+					<input type="text" name="" id="" placeholder="Nome Completo:" required>
+					<input type="text" name="" id="" placeholder="E-mail:" required>
+					<input type="text" name="" id="" placeholder="Celular:">
+					<textarea name="" id="" placeholder="Sua mensagem..." required>
+
+					</textarea>
+					<div class="btn-enviar">
+						<input type="submit" value="ENVIAR">
+					</div>
+
+				</form>
+
+			</div>
+		</section><!-- Fim formulário-->
+
+		<footer>
+			<div class="interface">
+				<div class="line-footer">
+					<div class="flex">
+						<div class="logo-footer">
+							<a href="#"><img src="/shell/img/logo.png" width="80px" alt="logo"></a>
+						</div>
+						<div class="btn-social">
+							<a href="https://www.instagram.com/luiz_manezzi/" target="_blank"><button><i
+										class="bi bi-instagram"></i></button></a>
+							<a href="#"><button><i class="bi bi-twitter-x"></i></button></a>
+							<a href="#"><button><i class="bi bi-linkedin"></i></button></a>
+						</div>
+					</div>
+				</div>
+				<div class="line-footer borda">
+					<p><i class="bi bi-envelope-fill"></i><a
+							href="mailto:felipe_moraess@hotmail.com">felipe_moraess@hotmail.com</a></p>
+				</div>
+			</div>
+		</footer><!-- Fim footer-->
+
+	</main>
+</body>
+</html>

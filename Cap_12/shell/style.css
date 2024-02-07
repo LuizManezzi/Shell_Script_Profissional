@@ -1,0 +1,529 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    width: auto;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.interface {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.btn-contato button {
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #00FF08;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+h2.titulo {
+    color: #FFF;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2.titulo span {
+    color: #00FF08;
+}
+
+button:hover,
+form .btn-enviar input[type=submit]:hover {
+    box-shadow: 0px 0px 8px #4cfa52;
+    transform: scale(1.05);
+
+}
+
+
+/* Estilo do cabeçalho */
+
+header {
+    padding: 40px 4%;
+}
+
+header>.interface {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header a {
+    color: rgb(41, 128, 41);
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover {
+    color: rgb(77, 236, 77);
+    transform: scale(1.05);
+}
+
+header .logo a img {
+    width: 70px;
+}
+
+header nav ul {
+    list-style-type: none;
+
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 40px;
+
+}
+
+
+
+/* Estilo do topo do site */
+
+section.topo-do-site {
+    padding: 40px 4%;
+
+}
+
+section.topo-do-site.flex {
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+
+.topo-do-site h1 {
+    color: #FFF;
+    font-size: 42px;
+    line-height: 40px;
+}
+
+.topo-do-site .txt-topo-site h1 span {
+    color: #00FF08;
+}
+
+.topo-do-site .txt-topo-site p {
+    color: #FFF;
+    margin: 40px 40px;
+}
+
+.topo-do-site .img-topo-site img {
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+@keyframes flutuar {
+    0% {
+        top: 0;
+    }
+
+    100% {
+        top: 30px;
+    }
+}
+
+/* Estilo das especialidades */
+
+section.especialidades {
+    padding: 40px 4%;
+}
+
+section.especialidades .flex {
+    gap: 60px;
+}
+
+.especialidades .especialidades-box {
+    color: #FFF;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: 45px;
+    transition: .2s;
+}
+
+.especialidades .especialidades-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #ffffff6e;
+}
+
+.especialidades .especialidades-box i {
+    font-size: 70px;
+    color: #00FF08;
+}
+
+.especialidades .especialidades-box h3 {
+    font-size: 26px;
+    margin: 15px 15px;
+}
+
+/* Estilo sobre */
+section.sobre {
+    padding: 80px 4%;
+}
+
+section.sobre .flex {
+    align-items: center;
+    gap: 60px;
+}
+
+.sobre .txt-sobre {
+    color: #FFF;
+
+}
+
+.sobre .txt-sobre h2 {
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.sobre .txt-sobre h2 span {
+    color: #00FF08;
+    display: block;
+}
+
+.sobre .txt-sobre p {
+    margin: 10px 0;
+    text-align: justify;
+
+}
+
+.btn-social button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none;
+    background-color: #00FF08;
+    font-size: 22px;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: .2s;
+}
+
+/* Estilo portfolio */
+
+section.portfolio {
+    padding: 80px 4%;
+    box-shadow: 0 0 40px 10px #ffffff1f;
+}
+
+section.portfolio .flex {
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+.img-port {
+    width: 360px;
+    height: 460px;
+    background-size: cover;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    border-radius: 40px;
+    position: relative;
+}
+
+.img-port:hover {
+    transform: scale(1.05);
+    box-shadow: 0 3px 6px #00FF08;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #97bb9821;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #ffffff;
+    opacity: 0;
+    transition: .5s;
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+
+/* Estilo do formulário de contato */
+
+section.formulario {
+    padding: 80px 4%;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 40px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    background-color: #444444;
+    border: 0;
+    outline: 0;
+    padding: 20px 15px;
+    border-radius: 15px;
+    color: #FFF;
+    font-size: 18px;
+}
+
+form input::placeholder {
+    color: #00FF08;
+}
+
+form textarea {
+    resize: none;
+}
+
+form textarea::placeholder {
+    color: #00FF08;
+}
+
+form .btn-enviar {
+    margin-top: 20px;
+    text-align: center;
+}
+
+form .btn-enviar input[type=submit] {
+    width: 120px;
+    background-color: #00FF08;
+    color: #000;
+    font-weight: 800px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+/* Estilo do footer */
+
+footer {
+    padding: 60px 4%;
+    box-shadow: 0 0 40px 10px #ffffff1f;
+}
+
+footer .flex {
+    justify-content: space-between;
+}
+
+footer .line-footer {
+    padding: 20px 0;
+}
+
+.borda {
+    border-top: 2px solid #00FF08;
+}
+
+footer .line-footer p i {
+    color: #00FF08;
+    font-size: 22px;
+}
+
+footer .line-footer p a {
+    color: #FFF;
+}
+
+
+/* Estilização menu mobile */
+#btn-menu {
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+    border: 4px solid #ffffff;
+    background: transparent;
+    cursor: pointer;
+    display: none;
+}
+
+#btn-menu .linha{
+    width: 25px;
+    height: 2px;
+    background-color: #ffffff;
+    display: block;
+    margin: 5px auto;
+    position: relative;
+    transform-origin: center;
+    transition: .2s;
+}
+
+#btn-menu.ativo{
+    border: 4px solid #00FF08;
+}
+
+#btn-menu.ativo .linha:nth-child(1){
+    transform: translateY(10px) rotate(-45deg);
+    background-color: #00FF08;
+}
+
+
+#btn-menu.ativo .linha:nth-child(4){
+    transform: translateY(-10px) rotate(45deg);
+    background-color: #00FF08;
+}
+
+
+#btn-menu.ativo .linha:nth-child(2){
+    width: 0;
+}
+
+#btn-menu.ativo .linha:nth-child(3){
+    width: 0;
+}
+
+.menu-mobile {
+    background-color: #0000008c;
+    backdrop-filter: blur(10px);
+    position: absolute;
+    top: 115px;
+    left: 0;
+    width: 100%;
+    height: 0;
+    visibility: hidden;
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.menu-mobile nav ul li {
+    text-decoration: none;
+    display: block;
+    padding: 20px 40px;
+    font-size: 16pt;
+}
+
+.menu-mobile nav ul li:hover {
+    background-color: #444444;
+}
+
+/* Responsividade do site */
+
+@media screen and (max-width: 1020px) {
+
+    /* Classes gerais */
+    .flex {
+        flex-direction: column;
+    }
+
+    h2.titulo {
+        font-size: 30px;
+        line-height: 33px;
+
+    }
+
+    .topo-do-site .flex {
+        flex-direction: column-reverse;
+    }
+
+    /* Cebeçalho */
+    .menu-desktop,
+    .btn-contato,
+    .img-topo-site {
+        display: none;
+    }
+
+    .logo a img {
+        width: 100%;
+    }
+
+    /* Topo do site */
+    section.topo-do-site.flex {
+        gap: 120px;
+    }
+
+    section.topo-do-site {
+        padding: 20px 8%;
+
+    }
+
+    .topo-do-site h1 {
+        font-size: 30px;
+    }
+
+    .topo-do-site .img-topo-site img {
+        width: 100%;
+    }
+
+    /* Especialidades */
+
+    section.especialidades {
+        padding: 40px 8%;
+    }
+
+    /* Sobre */
+
+    section.sobre {
+        padding: 40px 8%;
+    }
+
+    .sobre .txt-sobre h2 {
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+    }
+
+    .btn-social {
+        text-align: center;
+    }
+
+    .img-sobre img {
+        width: 100%;
+    }
+
+    /* Portfólio */
+    section.portfolio {
+        padding: 80px 8%;
+    }
+
+    .img-port {
+        width: 100%;
+        max-width: 360px;
+        margin: 0 auto;
+    }
+
+    section.portfolio .flex {
+        gap: 50px;
+    }
+
+    /* Footer */
+
+    .logo-footer a img {
+        width: 60px;
+    }
+
+    footer .flex {
+        flex-direction: column;
+        gap: 30px;
+
+    }
+
+    footer .line-footer {
+        text-align: center;
+    }
+
+    .menu-mobile.abrir{
+        visibility: visible;
+        height: 100%;
+    }
+
+    #btn-menu{
+        display: block;
+    }
+
+}
